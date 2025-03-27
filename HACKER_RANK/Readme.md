@@ -1,1 +1,2 @@
-![](../Profile.jpg)
+![Profile](../Profile.jpg)
+![Badges](../Badges.jpg)
