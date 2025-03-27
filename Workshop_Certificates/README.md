@@ -9,7 +9,4 @@ This folder contains certificates I have received upon successful completion of 
 
 ---
 
-![](./Introduction%20to%20Natural%20Language%20Processing.jpg)
----
-
 
