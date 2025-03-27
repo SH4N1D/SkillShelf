@@ -9,3 +9,4 @@ This folder contains certificates I have received upon successful completion of 
 
 ---
 
+![](./Python\t+\tDataScience.jpg)
