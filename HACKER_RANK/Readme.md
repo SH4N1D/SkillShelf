@@ -1,2 +1,3 @@
-![Profile](../Profile.jpg)
-![Badges](../Badges.jpg)
+![Profile](./Profile.jpg)
+<br>
+![Badges](./Badges.jpg)
