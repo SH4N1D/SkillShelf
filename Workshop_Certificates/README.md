@@ -9,7 +9,6 @@ This folder contains certificates I have received upon successful completion of 
 
 ---
 
-![](./Python%20+%20DataScience.jpg)
 
 
 ![Introduction to NLP](./Introduction%20to%20Natural%20Language%20Processing.jpg)
