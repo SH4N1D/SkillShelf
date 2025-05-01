@@ -1,34 +1,50 @@
-## 📜 Workshop Certificates
+# 🏆 Workshop & Certification Showcase
 
-<div align="center">
+Welcome to my certificate collection — a growing portfolio of hands-on workshops and training sessions I've completed to strengthen my knowledge in Data Science, Artificial Intelligence, Design, and related technologies.
 
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="ASAP%20Data%20Analytics%20using%20Python%20Participation%20certificate.jpg" width="200"/><br/>
-      <strong>ASAP Data Analytics using Python</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="Generative%20Ai%20with%20Google%20cloud.jpg" width="200"/><br/>
-      <strong>Generative AI with Google Cloud</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="Introduction%20to%20Natural%20Language%20processing.jpg" width="200"/><br/>
-      <strong>Intro to Natural Language Processing</strong>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="Python%20+%20DataScience.jpg" width="200"/><br/>
-      <strong>Python + Data Science</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding: 10px;">
-      <img src="Ui%20&%20Ux.jpg" width="200"/><br/>
-      <strong>UI & UX</strong>
-    </td>
-  </tr>
-</table>
+Each certificate listed below represents practical skills gained through focused learning and active participation.
 
-</div>
+---
+
+## 📜 Certificates
+
+### 🧾 ASAP Data Analytics using Python  
+![ASAP Certificate](ASAP%20Data%20Analytics%20using%20Python%20Participation%20certificate.jpg)  
+A hands-on workshop focused on Python-based data manipulation, visualization, and basic analytics using libraries like `pandas` and `matplotlib`.
+
+---
+
+### 🧾 Generative AI with Google Cloud  
+![Generative AI Certificate](Generative%20Ai%20with%20Google%20cloud.jpg)  
+An introductory course exploring generative models and how to implement them using Google's cloud-based tools such as Vertex AI and foundation models.
+
+---
+
+### 🧾 Introduction to Natural Language Processing  
+![NLP Certificate](Introduction%20to%20Natural%20Language%20processing.jpg)  
+Covered core NLP topics like tokenization, sentiment analysis, and vectorization with practical demos using Python libraries like `NLTK` and `spaCy`.
+
+---
+
+### 🧾 Python + Data Science  
+![Python + DS Certificate](Python%20+%20DataScience.jpg)  
+An applied learning session blending Python programming with data science concepts — from data cleaning and transformation to introductory machine learning models.
+
+---
+
+### 🧾 UI & UX  
+![UI & UX Certificate](Ui%20&%20Ux.jpg)  
+Focused on user interface design principles and user experience fundamentals, including wireframing, usability testing, and modern design tools like Figma.
+
+---
+
+## 🎯 Goals
+
+- Demonstrate verified participation in professional and academic workshops.
+- Highlight ongoing commitment to learning and upskilling in tech and design.
+- Provide evidence of practical application and collaboration during sessions.
+
+---
+
+## 📂 Folder Structure
+
