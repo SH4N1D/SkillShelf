@@ -9,31 +9,31 @@ Each certificate listed below represents practical skills gained through focused
 ## 📜 Certificates
 
 ### 🧾 ASAP Data Analytics using Python  
-![ASAP Certificate](ASAP%20Data%20Analytics%20using%20Python%20Participation%20certificate.jpg)  
+<img src="ASAP%20Data%20Analytics%20using%20Python%20Participation%20certificate.jpg" width="300"/>  
 A hands-on workshop focused on Python-based data manipulation, visualization, and basic analytics using libraries like `pandas` and `matplotlib`.
 
 ---
 
 ### 🧾 Generative AI with Google Cloud  
-![Generative AI Certificate](Generative%20Ai%20with%20Google%20cloud.jpg)  
+<img src="Generative%20Ai%20with%20Google%20cloud.jpg" width="300"/>  
 An introductory course exploring generative models and how to implement them using Google's cloud-based tools such as Vertex AI and foundation models.
 
 ---
 
 ### 🧾 Introduction to Natural Language Processing  
-![NLP Certificate](Introduction%20to%20Natural%20Language%20processing.jpg)  
+<img src="Introduction%20to%20Natural%20Language%20processing.jpg" width="300"/>  
 Covered core NLP topics like tokenization, sentiment analysis, and vectorization with practical demos using Python libraries like `NLTK` and `spaCy`.
 
 ---
 
 ### 🧾 Python + Data Science  
-![Python + DS Certificate](Python%20+%20DataScience.jpg)  
+<img src="Python%20+%20DataScience.jpg" width="300"/>  
 An applied learning session blending Python programming with data science concepts — from data cleaning and transformation to introductory machine learning models.
 
 ---
 
 ### 🧾 UI & UX  
-![UI & UX Certificate](Ui%20&%20Ux.jpg)  
+<img src="Ui%20&%20Ux.jpg" width="300"/>  
 Focused on user interface design principles and user experience fundamentals, including wireframing, usability testing, and modern design tools like Figma.
 
 ---
