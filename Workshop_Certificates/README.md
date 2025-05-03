@@ -33,6 +33,11 @@ Focused on the principles of **User Interface (UI)** and **User Experience (UX)*
 
 ---
 
+### 🧾 [Data Visualization with Power BI](./ASAP%20-%20Power%20BI%20(35)_page-0001.jpg)  
+Participated in a one-day workshop on **Data Visualization with Power BI**, organized by **ASAP Kerala**  in collaboration with **360DigiTMG**. Learned about data dashboards, interactive reports, and real-time analytics using Microsoft Power BI.
+
+---
+
 ## 🎯 Key Learning Outcomes
 
 - **Applied Knowledge**: Gained practical insights from real-world projects and case studies.
@@ -43,5 +48,18 @@ Focused on the principles of **User Interface (UI)** and **User Experience (UX)*
 
 ## 📂 Folder Structure
 
-The following is the structure of this repository:
-
+```
+SkillShelf/
+├── Course_Certificates/
+├── HACKER_RANK/
+├── Kaggle/
+├── Workshop_Certificates/
+│   ├── ASAP - Power BI (35)_page-0001.jpg
+│   ├── ASAP Data Analytics using Python Participation certificate.jpg
+│   ├── Generative Ai with Google cloud.jpg
+│   ├── Introduction to Natural Language processing.jpg
+│   ├── Python + DataScience.jpg
+│   ├── Ui & Ux.jpg
+│   └── README.md
+├── README.md
+```
