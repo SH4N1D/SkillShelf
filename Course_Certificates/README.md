@@ -1,11 +1,22 @@
-# 🏆 My Course Certificates
+# 🎓 Course Certificates
 
-Welcome to my **Course Certificates** repository! Here, I have uploaded the certificates I have earned from various courses.
+Welcome to my certificate showcase! This repository contains verified certificates from various online courses I’ve completed to strengthen my knowledge and skills in data science and technology.
+
+## 📘 Certificates
+
+### 🧠 Data Analytics with Python
+
+![Data Analytics with Python - NPTEL](Data%20Analytics%20with%20Python_page-0001.jpg)
+
+**Issued by:** NPTEL (IIT Roorkee, Jan–Apr 2025)  
+**Type:** Elite Certificate  
+**Duration:** 12-week course  
+**Score:** 63% (Online Assignments: 24.38/25, Proctored Exam: 38.27/75)  
+**Certified Candidates:** 10,022  
+**Roll No:** `NPTEL25CS17S1250100220`
+
+> This certification was offered through the [SWAYAM](https://swayam.gov.in/) platform, under the Ministry of Education, Government of India.
 
 ---
 
-## 📜 About
-This folder contains certificates I have received upon successful completion of different courses. It serves as a record of my learning journey and achievements.
-
----
-
+✨ More certificates will be added soon as I continue my upskilling journey.
