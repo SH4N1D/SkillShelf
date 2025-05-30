@@ -11,7 +11,7 @@ Welcome to my certificate showcase! This repository contains verified certificat
 **Issued by:** NPTEL (IIT Roorkee, Jan–Apr 2025)  
 **Type:** Elite Certificate  
 **Duration:** 12-week course  
-**Score:** 63% (Online Assignments: 24.38/25, Proctored Exam: 38.27/75)  
+**Score:** 63% (Online Assignments:  
 **Certified Candidates:** 10,022  
 **Roll No:** `NPTEL25CS17S1250100220`
 
