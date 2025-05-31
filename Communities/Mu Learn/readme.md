@@ -1,8 +1,9 @@
 # 🌐 MuLearn Community
 
-This folder contains certificates and acknowledgments for events and contributions through the MuLearn platform.
+This folder contains details of my involvement and contributions in the MuLearn platform.
 
-## 📄 PROFILE
+🔗 [View My MuLearn Profile](https://app.mulearn.org/profile/shanid@mulearn)
 
-### 🏆 Campus Contributor - MCA Department
-![Campus Contributor](/Communities/Mu%20Learn/Screenshot%20(62).png)
+## 🧾 Profile 
+
+![MuLearn Profile](/Communities/MuLearn/Screenshot%20(62).png)
