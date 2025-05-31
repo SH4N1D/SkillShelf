@@ -4,12 +4,12 @@ This folder contains details of my involvement and contributions in the MuLearn 
 
 <p align="center">
   <a href="https://app.mulearn.org/profile/shanid@mulearn">
-    <img src="https://img.shields.io/badge/MuLearn-View_Profile-00BDAA?style=for-the-badge&logoColor=white" height="25" />
+    <img src="https://img.shields.io/static/v1?message=MuLearn&label=Profile&color=00BDAA&style=for-the-badge" height="25" />
   </a>
 </p>
 
-## 🧾 Profile Screenshot
+## 🧾 Profile 
 
 <p align="center">
   <img src="./Screenshot%20(62).png" alt="MuLearn Profile Screenshot" width="400"/>
-</p>
+</p
