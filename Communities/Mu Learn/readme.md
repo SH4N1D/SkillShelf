@@ -4,7 +4,7 @@ This folder contains details of my involvement and contributions in the MuLearn 
 
 <p align="center">
   <a href="https://app.mulearn.org/profile/shanid@mulearn">
-    <img src="https://img.shields.io/static/v1?message=MuLearn&label=Profile&color=00BDAA&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?label=MuLearn&message=Profile&color=00BDAA&style=plastic" height="25" />
   </a>
 </p>
 
