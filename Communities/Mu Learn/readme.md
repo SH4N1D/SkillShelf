@@ -12,4 +12,4 @@ This folder contains details of my involvement and contributions in the MuLearn 
 
 <p align="center">
   <img src="./Screenshot%20(62).png" alt="MuLearn Profile Screenshot" width="400"/>
-</p
+</p>
