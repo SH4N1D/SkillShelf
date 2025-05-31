@@ -5,4 +5,4 @@ This folder contains certificates and acknowledgments for events and contributio
 ## 📄 Certificates
 
 ### 🏆 Campus Contributor - MCA Department
-![Campus Contributor](/Communities/MuLearn/Screenshot%20(62).png)
+![Campus Contributor](/Communities/Mu%20Learn/Screenshot%20(62).png)
